@@ -24,6 +24,23 @@
         }
       },
       "version": "WzUsMV0="
+    },
+    {
+      "id": "fbdca280-6c47-11ea-9ce5-f7a4ff54fd7b",
+      "type": "dashboard",
+      "version": "WzgsMV0=",
+      "attributes": {
+        "title": "Cluster overview",
+        "hits": 0,
+        "description": "overall logging stats",
+        "panelsJSON": "[{\"gridData\":{\"w\":24,\"h\":15,\"x\":0,\"y\":0,\"i\":\"1\"},\"version\":\"6.8.6\",\"panelIndex\":\"1\",\"type\":\"visualization\",\"id\":\"e6717580-6c45-11ea-9ce5-f7a4ff54fd7b\",\"embeddableConfig\":{}}]",
+        "optionsJSON": "{\"darkTheme\":false,\"useMargins\":true,\"hidePanelTitles\":false}",
+        "version": 1,
+        "timeRestore": false,
+        "kibanaSavedObjectMeta": {
+          "searchSourceJSON": "{\"query\":{\"query\":\"\",\"language\":\"lucene\"},\"filter\":[]}"
+        }
+      }
     }
   ]
 }
